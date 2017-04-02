@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="delete" type="id">delete</item>
+    <item name="startButton" type="id">startButton</item>
+    <item name="pauseButton" type="id">pauseButton</item>
+</resources>

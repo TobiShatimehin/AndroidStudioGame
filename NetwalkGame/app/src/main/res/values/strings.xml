@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NetwalkGame</string>
+    <string name="netwalk_game">Netwalk Game</string>
+    <string name="play_game">Play Game</string>
+    <string name="pick_a_level">Pick a Level</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="medium">Medium</string>
+    <string name="game_instructions">Game Instructions</string>
+    <string name="instructions">In the game of Netwalk, you are a network administrator, and someone has scrambled your network.
+        Your job is to rotate all the pieces so that every computer is connected to the server by pipes and there are no loose ends in your network.
+        Of course, the less work you need to do to complete your network the better,
+        so Netwalk is scored by the number of clicks it takes you to rotate everything into place.</string>
+    <string name="GameInstruction">TextView</string>
+    <string name="highscore">HighScore</string>
+    <string name="picklevel">Pick a Level</string>
+    <string name="highscore1">Highscore</string>
+    <string name="textviewname">TextView</string>
+    <string name="table">listView</string>
+    <string name="highscore2">HighScore</string>
+    <string name="add_best_score">Add Best Score</string>
+
+
+</resources>
